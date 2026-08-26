@@ -5,15 +5,7 @@ Computer Engineering student at **Universitat Politècnica de Catalunya (UPC)**,
 Currently working in **Machine Learning research at UPC** and preparing for an exchange semester at **Université Paris-Saclay**.
 
 Previously worked in **Software Engineering R&D at SEAT S.A.**
-
-## Interests
-
-* Machine Learning & ML Systems
-* High-performance C++
-* Systems Programming
-* Algorithms & Data Structures
-* Quantitative Technology
-
+* Intersted in: Machine Learning & ML Systems, High-performance C++, Systems Programming, Algorithms & Data Structures, Quantitative Dev
 
 ## Tech
 
@@ -29,4 +21,5 @@ Previously worked in **Software Engineering R&D at SEAT S.A.**
 ---
 
 Currently interested in **Software Engineering, ML Engineering and quantitative technology internships for Summer 2027**.
+Contact me at jan.lozano.dev@gmail.com for inquiries!
 
