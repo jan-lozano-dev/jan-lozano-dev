@@ -1,25 +1,31 @@
-## Hi there, I'm Jan 👋
+# Hi, I'm Jan 👋
 
-Computer Engineering student at **Universitat Politècnica de Catalunya (UPC)**, focused on **machine learning, systems programming and high-performance C++**.
+Computer Engineering student at **Universitat Politècnica de Catalunya (UPC)** focused on **machine learning and high-performance software systems**.
 
 Currently working in **Machine Learning research at UPC** and preparing for an exchange semester at **Université Paris-Saclay**.
 
 Previously worked in **Software Engineering R&D at SEAT S.A.**
-* Intersted in: Machine Learning & ML Systems, High-performance C++, Systems Programming, Algorithms & Data Structures, Quantitative Dev
 
-## Tech
+## Selected Work
 
-**Languages**
-`C++` `Python`
+### [C++ Order Book](https://github.com/jan-lozano-dev/cpp-orderbook)
+C++20 matching engine implementing price-time priority, limit/market orders, GTC/IOC/FOK execution, partial fills, cancellation and order amendments.
 
-**Machine Learning**
-`PyTorch` `scikit-learn` `CatBoost` `NumPy` `pandas`
+Designed around ordered price levels, FIFO queues and indexed order lookup, with correctness-focused tests and CMake builds.
 
-**Systems & Tools**
-`Linux` `Git` `CMake` `Docker`
+### [Stacked GBM — Bankruptcy Prediction](https://github.com/jan-lozano-dev/Stacked-GBM)
+Reproducible stacking pipeline for imbalanced tabular classification using **CatBoost, LightGBM and XGBoost**.
+
+Uses stratified cross-validation and out-of-fold predictions, with a CatBoost meta-learner, automated tests and CI.
+
+## Technologies
+
+**Languages:** C++, Python  
+**ML/Data:** scikit-learn, CatBoost, LightGBM, XGBoost, NumPy, pandas  
+**Engineering:** Linux, Git, CMake
 
 ---
 
-Currently interested in **Software Engineering, ML Engineering and quantitative technology internships for Summer 2027**.
-Contact me at jan.lozano.dev@gmail.com for inquiries!
+Seeking **Software Engineering and Machine Learning Engineering internships for Summer 2027**.
 
+📫 jan.lozano.dev@gmail.com
