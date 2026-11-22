@@ -6,7 +6,7 @@ Currently working in **Machine Learning research at UPC** and preparing for an e
 
 ## Selected Work
 
-### [Math on the Edge: an offline LLM on an Arduino UNO Q](https://github.com/jan-lozano-dev/datathon-2026)
+### [Math on the Edge: an offline LLM on an Arduino UNO Q](https://github.com/jan-lozano-dev/math-slm-arduino-uno-q)
 Built for the **Qualcomm "Math on the Edge" challenge** at Datathon FME 2026 (UPC). A 4-bit quantised 1.5B-parameter model (Qwen2.5-Coder, **llama.cpp**) runs entirely on a 4-core Cortex-A53 board with 4 GB RAM and no network, under a 60 s per-problem limit.
 
 Instead of asking the model to pick a letter, it writes a short Python program that runs in a sandbox (stdlib only, CPU, memory and time limits) and is matched to the answer options: **23% → 46%** on the organisers' practice set. Includes pinned board setup, a reproducible evaluation harness and an error analysis by language, level and figure.
