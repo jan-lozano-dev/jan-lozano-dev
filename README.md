@@ -35,6 +35,6 @@ Uses stratified cross-validation and out-of-fold predictions, with a CatBoost me
 
 ---
 
-Seeking **Software Engineering and Machine Learning Engineering internships for Summer 2027**, especially in edge AI and systems.
+Seeking **Software Engineering and Machine Learning Engineering internships for Summer 2027**, especially in LLMs and systems.
 
 📫 jan.lozano.dev@gmail.com
